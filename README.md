@@ -1,11 +1,11 @@
-About r-clustofvar
-==================
+About r-clustofvar-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-clustofvar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ClustOfVar
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-clustofvar-feedstock/blob/main/LICENSE.txt)
 
 Summary: Cluster analysis of a set of variables. Variables can be quantitative, qualitative or a mixture of both.
 
